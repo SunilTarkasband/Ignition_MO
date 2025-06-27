@@ -1,0 +1,55 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "height": 837,
+      "width": 1508
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Image"
+        },
+        "position": {
+          "height": 100,
+          "width": 100,
+          "x": 198,
+          "y": 93
+        },
+        "type": "ia.display.image"
+      },
+      {
+        "meta": {
+          "name": "Image_0"
+        },
+        "position": {
+          "height": 718,
+          "width": 1296,
+          "x": 42,
+          "y": 43
+        },
+        "propConfig": {
+          "props.source": {
+            "binding": {
+              "config": {
+                "fallbackDelay": 2.5,
+                "mode": "direct",
+                "publishInitial": false,
+                "tagPath": "[MQTT Engine]MWCS_Tag Folder/grafana/screenshot"
+              },
+              "type": "tag"
+            }
+          }
+        },
+        "type": "ia.display.image"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}

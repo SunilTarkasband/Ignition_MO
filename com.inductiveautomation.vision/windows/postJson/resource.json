@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "MOAdmin",
+      "timestamp": "2025-03-14T21:53:42Z"
+    },
+    "xml-format-version": 1,
+    "open-on-start": true,
+    "lastModificationSignature": "cbfd7cd425ecff0969e6994eddaaa7a94c76056d9525c086fb6a672b60e344e8"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "scope": "DG",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "query.sql"
+  ],
+  "attributes": {
+    "useMaxReturnSize": false,
+    "autoBatchEnabled": false,
+    "fallbackValue": "",
+    "maxReturnSize": 100,
+    "cacheUnit": "SEC",
+    "type": "UpdateQuery",
+    "enabled": true,
+    "cacheAmount": 1,
+    "cacheEnabled": false,
+    "database": "GlobalTemplateDB",
+    "fallbackEnabled": false,
+    "lastModificationSignature": "03d3bdb8e679f9f85920c500a25a6c759b14e2e88a7e8d7d01a883f0e4cd4482",
+    "permissions": [
+      {
+        "zone": "",
+        "role": ""
+      }
+    ],
+    "lastModification": {
+      "actor": "vilandge",
+      "timestamp": "2025-04-15T18:32:27Z"
+    },
+    "parameters": [
+      {
+        "type": "Parameter",
+        "identifier": "docType",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "messageIdentifier",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "lastCompletedStep",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "status",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "message",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "step",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "payload",
+        "sqlType": 7
+      },
+      {
+        "type": "Parameter",
+        "identifier": "lastPayload",
+        "sqlType": 6
+      }
+    ]
+  }
+}

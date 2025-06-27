@@ -1,0 +1,40 @@
+{
+  "scope": "DG",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "query.sql"
+  ],
+  "attributes": {
+    "useMaxReturnSize": true,
+    "autoBatchEnabled": false,
+    "fallbackValue": "",
+    "maxReturnSize": 10,
+    "cacheUnit": "SEC",
+    "type": "UpdateQuery",
+    "enabled": true,
+    "cacheAmount": 1,
+    "cacheEnabled": false,
+    "database": "GlobalTemplateDB",
+    "fallbackEnabled": false,
+    "lastModificationSignature": "3aaa5a582214fe793f48bd06203397af0e8b40857817563c177b4527732d7444",
+    "permissions": [
+      {
+        "zone": "",
+        "role": ""
+      }
+    ],
+    "lastModification": {
+      "actor": "MOAdmin",
+      "timestamp": "2025-03-14T20:50:07Z"
+    },
+    "parameters": [
+      {
+        "type": "Parameter",
+        "identifier": "payload",
+        "sqlType": 7
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+exec [usp_Insert_SAPAPI_InboundQueue] :messageIdentifier,:docType,:status,:lastCompletedStep,:message,:step,:payload,1

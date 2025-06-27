@@ -1,0 +1,17 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "vilandge",
+      "timestamp": "2025-03-21T11:51:20Z"
+    },
+    "hintScope": 2,
+    "lastModificationSignature": "e33993cfd4ac81f118fd6fbfa8cd9e162d4d7f96f922cbe29ddedf2b5a49519c"
+  }
+}

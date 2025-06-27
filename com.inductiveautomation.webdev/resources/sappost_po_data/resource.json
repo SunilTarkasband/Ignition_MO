@@ -1,0 +1,24 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json",
+    "doPut.py",
+    "doTrace.py",
+    "doHead.py",
+    "doPatch.py",
+    "doPost.py",
+    "doOptions.py",
+    "doGet.py",
+    "doDelete.py"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "vilandge",
+      "timestamp": "2025-04-11T16:53:36Z"
+    },
+    "lastModificationSignature": "0f1e51bff125f4d8544c23fd9001902b27faac224204148708408af0e434daf2"
+  }
+}
