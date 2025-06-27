@@ -4,13 +4,14 @@
   "restricted": false,
   "overridable": true,
   "files": [
-    "props.json"
+    "view.json",
+    "thumbnail.png"
   ],
   "attributes": {
     "lastModification": {
       "actor": "starkasband",
       "timestamp": "2025-06-27T08:46:30Z"
     },
-    "lastModificationSignature": "03b538597ed483b5358c3027fb0da3b7fa992ff85e1cad671a587adbc080e440"
+    "lastModificationSignature": "64f807c97d30d1752e49a740d3f82236d3e41402172048aa41a358e636df5a41"
   }
 }

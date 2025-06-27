@@ -1,0 +1,17 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "starkasband",
+      "timestamp": "2025-06-27T11:09:07Z"
+    },
+    "hintScope": 2,
+    "lastModificationSignature": "c432f971891fa4b2a3385573faf9a99b64842d2e88a8b1b69e86287e3c33efcd"
+  }
+}

@@ -56,10 +56,10 @@
     }
   },
   "props": {
-    "address": "10.199.128.203",
+    "address": "127.0.0.1",
     "device": {},
     "geolocation": {},
-    "locale": "en-IE",
-    "timeZoneId": "Asia/Calcutta"
+    "locale": "en-US",
+    "timeZoneId": "Etc/UTC"
   }
 }
