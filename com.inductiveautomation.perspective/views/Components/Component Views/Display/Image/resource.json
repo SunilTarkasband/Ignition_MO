@@ -4,14 +4,14 @@
   "restricted": false,
   "overridable": true,
   "files": [
-    "thumbnail.png",
-    "view.json"
+    "view.json",
+    "thumbnail.png"
   ],
   "attributes": {
     "lastModification": {
-      "actor": "admin",
-      "timestamp": "2023-11-21T21:58:41Z"
+      "actor": "external",
+      "timestamp": "2025-07-01T14:44:34Z"
     },
-    "lastModificationSignature": "0336d33d98965ae07989e2f76a585d7c5f7308dcca642342ac105f52bfcd280b"
+    "lastModificationSignature": "9b0788475440208d2f86e1e913cf45118bd7eb42e07f4b9ff7b42366157cc04f"
   }
 }

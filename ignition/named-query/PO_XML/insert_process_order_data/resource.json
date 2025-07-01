@@ -18,7 +18,7 @@
     "cacheEnabled": false,
     "database": "GlobalTemplateDB",
     "fallbackEnabled": false,
-    "lastModificationSignature": "f4fc0d5176b80c0e713e2c51d5077ae7c371d03aa4f432f8626f8292f9fd82fc",
+    "lastModificationSignature": "77d5f44a248b8bb265429edd6d0e4bc9827589eaeab5ba72f92a0c9396cd7119",
     "permissions": [
       {
         "zone": "",
@@ -26,8 +26,8 @@
       }
     ],
     "lastModification": {
-      "actor": "vilandge",
-      "timestamp": "2025-03-26T11:09:17Z"
+      "actor": "external",
+      "timestamp": "2025-07-01T14:44:34Z"
     },
     "parameters": [
       {

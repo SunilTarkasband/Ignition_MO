@@ -18,7 +18,7 @@
     "cacheEnabled": false,
     "database": "GlobalTemplateDB",
     "fallbackEnabled": false,
-    "lastModificationSignature": "3aaa5a582214fe793f48bd06203397af0e8b40857817563c177b4527732d7444",
+    "lastModificationSignature": "ff0fa5be8c8ec29c9e58566d801e539c2687acf526575950ab96fc7c36902fa1",
     "permissions": [
       {
         "zone": "",
@@ -26,8 +26,8 @@
       }
     ],
     "lastModification": {
-      "actor": "MOAdmin",
-      "timestamp": "2025-03-14T20:50:07Z"
+      "actor": "external",
+      "timestamp": "2025-07-01T14:44:34Z"
     },
     "parameters": [
       {

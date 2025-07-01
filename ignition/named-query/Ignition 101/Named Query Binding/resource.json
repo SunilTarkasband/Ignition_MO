@@ -18,7 +18,7 @@
     "cacheEnabled": false,
     "database": "Sample_SQLite_Database",
     "fallbackEnabled": false,
-    "lastModificationSignature": "7319af95fd3347561fe179b3b7c429b8189082104947d0db2cf9ffcb975f6f70",
+    "lastModificationSignature": "f24a661ea6e27cd29e973bd9ba6fc8296db27849f68d0e30378760473d6f0ecd",
     "permissions": [
       {
         "zone": "",
@@ -27,7 +27,7 @@
     ],
     "lastModification": {
       "actor": "external",
-      "timestamp": "2023-11-22T03:26:40Z"
+      "timestamp": "2025-07-01T14:44:34Z"
     }
   }
 }
