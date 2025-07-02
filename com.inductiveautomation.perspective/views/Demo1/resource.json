@@ -4,13 +4,14 @@
   "restricted": false,
   "overridable": true,
   "files": [
-    "config.json"
+    "view.json",
+    "thumbnail.png"
   ],
   "attributes": {
     "lastModification": {
       "actor": "Anishkumar",
-      "timestamp": "2025-07-02T11:05:31Z"
+      "timestamp": "2025-07-02T11:06:15Z"
     },
-    "lastModificationSignature": "46a3aa1039aed1c71a24490b03ef3e6222690fa2756ee2f4ebfbe29ba94d3db3"
+    "lastModificationSignature": "333b9a78fd4e003b1efa3f69cfaf45ab4a74d63865cafe42e85ebbed2b68fabc"
   }
 }
