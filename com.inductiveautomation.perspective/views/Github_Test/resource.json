@@ -4,13 +4,14 @@
   "restricted": false,
   "overridable": true,
   "files": [
-    "config.json"
+    "view.json",
+    "thumbnail.png"
   ],
   "attributes": {
     "lastModification": {
       "actor": "sunil.tarkasband@accenture.com",
-      "timestamp": "2025-07-02T09:37:56Z"
+      "timestamp": "2025-07-02T09:38:43Z"
     },
-    "lastModificationSignature": "83e1df8e9e7769fd10be781fca2f912d00611101e35fd7d0993c658a271f049d"
+    "lastModificationSignature": "8b677640666fb42d1de010e9c45404c9f4931ae5804f615ed3bfbeb208b34a89"
   }
 }
