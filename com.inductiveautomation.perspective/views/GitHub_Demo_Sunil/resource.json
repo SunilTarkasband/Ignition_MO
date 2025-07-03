@@ -1,0 +1,24 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "view.json",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+<<<<<<< HEAD:com.inductiveautomation.perspective/views/Demo1/resource.json
+      "actor": "external",
+      "timestamp": "2025-07-03T08:05:55Z"
+    },
+    "lastModificationSignature": "4ffb85c33abd1b4f6fffff56700d3d69224749f12a0f9e6fd23fd9d9d546b444"
+=======
+      "actor": "sunil.tarkasband@accenture.com",
+      "timestamp": "2025-07-03T07:47:00Z"
+    },
+    "lastModificationSignature": "e690149c69581d24c65cc5d3a7a42ec89749d3fb649d92f1d4f5bdea225478fb"
+>>>>>>> 8bb675fbce8a41350d94e296829f51a4174f99a0:com.inductiveautomation.perspective/views/GitHub_Demo_Sunil/resource.json
+  }
+}

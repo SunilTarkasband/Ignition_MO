@@ -8,9 +8,16 @@
   ],
   "attributes": {
     "lastModification": {
+<<<<<<< HEAD
       "actor": "external",
       "timestamp": "2025-07-03T08:05:55Z"
     },
     "lastModificationSignature": "03571484b82ec0e7a11172560cffbf10a889ddcf3fb2623825fe1923308c5963"
+=======
+      "actor": "sunil.tarkasband@accenture.com",
+      "timestamp": "2025-07-03T07:46:23Z"
+    },
+    "lastModificationSignature": "0311fca77ab8f012f8482d0e2a04094d5abe86da9501395f1a977915796fbc3f"
+>>>>>>> 8bb675fbce8a41350d94e296829f51a4174f99a0
   }
 }
