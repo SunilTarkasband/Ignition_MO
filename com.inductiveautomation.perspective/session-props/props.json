@@ -55,6 +55,6 @@
     "device": {},
     "geolocation": {},
     "locale": "en-US",
-    "timeZoneId": "Asia/Calcutta"
+    "timeZoneId": "Etc/UTC"
   }
 }
